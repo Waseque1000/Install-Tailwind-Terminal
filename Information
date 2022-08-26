@@ -1,0 +1,38 @@
+this is the comand 
+
+npm install tailwindcss
+npx tailwindcss-cli build css/tailwind.css -o build/tailwind.css
+npm init -y
+npm install -D tailwindcss postcss autoprefixer vite
+npx tailwindcss init -p
+npm run dev
+
+
+
+#####
+
+
+akta subfolder creat korte hbe 
+ tar vitore tailwind.css naki akta file creat korte hbe  oi tailwind.css file a
+ 	@tailwind base;
+@tailwind components;
+@tailwind utilities;
+   
+
+
+ai 3 ta line likhte hbe 
+
+
+1st = npm intall tailwindcss
+2nd = npx tailwindcss-cli build css/tailwind.css -o build/tailwind.css
+ 3nd = npm init -y
+4nd = npm install -D tailwindcss postcss autoprefixer vite
+5th = npx tailwindcss init -p
+
+
+
+
+
+index file a 
+ link add korte hbe build / tailwind.css 
+ link add korte hbe css / tailwind.css 
